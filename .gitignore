@@ -1,0 +1,11 @@
+# Raw datasets
+data/raw/
+
+# Power BI temporary files
+*.pbit
+*.tmp
+*.bak
+
+# Windows files
+Thumbs.db
+Desktop.ini
